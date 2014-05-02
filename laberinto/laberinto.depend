@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1399045590 source:c:\users\jose\desktop\proyecto 1\laberinto\main.cpp
+	<curses.h>
+	<iostream>
+	<stdlib.h>
+
